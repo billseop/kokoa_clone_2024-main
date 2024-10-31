@@ -42,7 +42,9 @@
     border-radius: 3px;
     display: flex;
     justify-content: center;
-    /*점세개 빨간 동그라미 생성 숙제 해결*/
+    position: absolute;
+   left: 25px;
+   bottom: 25px;
 }
 
 
